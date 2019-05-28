@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Wings_Sound_track_1
+  m_EditorClassIdentifier: 
+  mEventID: Wings_Sound_track_1
+  mEventList:
+  - mStartSample: 88200
+    mEndSample: 88200
+  - mStartSample: 154350
+    mEndSample: 154350
+  - mStartSample: 220500
+    mEndSample: 220500
+  - mStartSample: 264600
+    mEndSample: 264600
+  - mStartSample: 352800
+    mEndSample: 352800
+  - mStartSample: 529200
+    mEndSample: 529200
+  - mStartSample: 551250
+    mEndSample: 551250
+  - mStartSample: 573300
+    mEndSample: 573300
+  - mStartSample: 661500
+    mEndSample: 661500
+  - mStartSample: 705600
+    mEndSample: 705600
+  - mStartSample: 904050
+    mEndSample: 904050
+  - mStartSample: 926100
+    mEndSample: 926100
+  - mStartSample: 1080450
+    mEndSample: 1080450
+  - mStartSample: 1102500
+    mEndSample: 1102500
+  - mStartSample: 1212750
+    mEndSample: 1212750
+  - mStartSample: 1234800
+    mEndSample: 1234800
+  - mStartSample: 1345050
+    mEndSample: 1345050
+  - mStartSample: 1367100
+    mEndSample: 1367100
+  - mStartSample: 1455300
+    mEndSample: 1455300
+  - mStartSample: 1477350
+    mEndSample: 1477350
+  - mStartSample: 1609650
+    mEndSample: 1609650
+  - mStartSample: 1631700
+    mEndSample: 1631700
+  - mStartSample: 1719900
+    mEndSample: 1719900
+  - mStartSample: 1741950
+    mEndSample: 1741950
+  - mStartSample: 1852200
+    mEndSample: 1852200
+  - mStartSample: 1874250
+    mEndSample: 1874250
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 6
+  - mIntVal: 10
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  _IntPayloadIdxs: 00000000010000000200000003000000040000000500000006000000070000000800000009000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 
